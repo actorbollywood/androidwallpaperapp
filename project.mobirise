@@ -1,0 +1,95 @@
+{
+  "settings": {
+    "name": "Create Android",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise4",
+      "title": "Mobirise 4",
+      "styling": {
+        "primaryColor": "#149dcc",
+        "secondaryColor": "#ff3366",
+        "successColor": "#F7ED4A",
+        "infoColor": "#82786E",
+        "warningColor": "#879A9F",
+        "dangerColor": "#B1A374",
+        "mainFont": "Rubik",
+        "display1Font": "Rubik",
+        "display1Size": 4.25,
+        "display2Font": "Rubik",
+        "display2Size": 3,
+        "display5Font": "Rubik",
+        "display5Size": 1.5,
+        "display7Font": "Rubik",
+        "display7Size": 1,
+        "display4Font": "Rubik",
+        "display4Size": 1,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "4.7.1",
+    "uniqCompNum": 5,
+    "versionPublish": "4.7.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text><b>Android Side</b> ( Feature ) :<br><br>\n<div>\n</div><div>- Wallpapers and GIFs\n</div><div>- Total views of each wallpaper and GIF\n</div><div>- Offline(Caching) the wallpapers\n</div><div>- Endless Scrolling of list\n</div><div>- Save or Share Wallpaper and GIFs with your friends and on Social Networks\n</div><div>- Set As Wallpaper Option(wallpapers)\n</div><div>- Add to favorite feature(Wallpapers/GIFs)\n</div><div>- Navigation View\n</div><div>- Pinch Zoom and Double Tap Zoom on Wallpapers\n</div><div>- One Signal Push Notification\n</div><div>- Send notification through admin panel\n</div><div>- On/Off Push Notification Option\n</div><div>- Admob with Banner and Interstitial ads Integrated\n</div><div>- App comply with GDPR\n</div><div>- Manage Ad details from admin panel\n</div><div>- Firebase Analytics\n</div><div>- All Device Combability\n</div><div>- Easy Admin Panel For Upload Wallpapers\n</div><div>- Android Studio Full Code</div><br><div>\n</div><div>\n</div><div><b>Admin Side:</b></div><br><div>\n</div><div>\n</div><div>- Simple and Attractive Admin Panel.\n</div><div>- Display Total Category and Wallpaper Uploaded.\n</div><div>- Easily Manage Category Section\n</div><div>- Manage GIF Section\n</div><div>- Upload Unlimited Category and its Item.\n</div><div>- Upload Unlimited GIF images.\n</div><div>- Send Notification through admin panel\n</div><div>- Json Based Service</div><br><div>\n</div><div>\n</div><div><b>What U Get:</b></div><br><div>\n</div><div>\n</div><div>- Full Android Source Code.\n</div><div>- Full Php Code of Server Side.\n</div><div>- Android Package hierarchy (that tells which class is used for what).</div><br><div>\n</div><div>\n</div><div><b>Pricing :</b></div><br><div>\n</div><div>\n</div><div>- 15$ ( You Can Create Only 1 App &amp; We Give Php Source Code &amp; Admin Panel Code )</div><br><div>\n</div><div>- 20$ ( You Can Create Only 10 App &amp; We Give You Php Source Code &amp; Admin Panel Code )</div><br><div>\n</div><div>- 30$ ( You Can Create Unlimited Apps &amp; We Give You Android Studio Code &amp; Php Code &amp; Admin Panel Code &amp; Full App Source Code )</div><br><div>\n</div><div>- We Give You 2 Hour Support For 1st Time To Create Admin Panel &amp; Any Type Problem You Have To Create App</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-4",
+          "_isUserblock": true,
+          "_cid": "qYjfUEZhSa",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "MORE DETAIL",
+        "order": 1
+      },
+      "components": []
+    }
+  }
+}
